@@ -14,5 +14,5 @@
 # Endereço: XXXXXXX
 
 print("Digite seu nome, telefone e endereço") 
-str.informacoes=input()
+informacoes=input()
 print("Os dados digitados foram: " + informacoes)
